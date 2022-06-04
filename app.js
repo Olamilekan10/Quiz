@@ -2,6 +2,7 @@ const correctAnswers = ['A','B','A','A','B','A','A','B','A','B','B','B','A','A',
 const form = document.querySelector('.quiz-form');
 // const result = document.querySelector('.result');
 
+// click handler event
 form.addEventListener('submit', e => {
     e.preventDefault();
 
