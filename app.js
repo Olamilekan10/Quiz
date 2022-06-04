@@ -17,7 +17,7 @@ form.addEventListener('submit', e => {
     });
 
     // show result on page
-    window.scrollTo(0,0);
+    // window.scrollTo(0,0);
     
     result.classList.remove('d-none');
 
