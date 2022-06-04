@@ -32,7 +32,3 @@ form.addEventListener('submit', e => {
     }, 10);
     
 });
-
-setInterval(() => {
-    
-}, interval);
